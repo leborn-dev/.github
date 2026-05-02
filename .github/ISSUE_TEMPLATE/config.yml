@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Leborn Organization
+    url: https://github.com/leborn-dev
+    about: General questions about Leborn? See the org profile and other projects here.
+  - name: Sponsor (LLL Sdn Bhd)
+    url: https://lll.dev
+    about: For commercial support, custom development, or enterprise migration services.
